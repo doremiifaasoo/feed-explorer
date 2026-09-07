@@ -1,9 +1,9 @@
-import postOne from "@/post-one.png";
-import postTwo from "@/post-two.jpg";
-import postThree from "@/post-three.png";
+import postOne from "@/assets/post-one.png";
+import postTwo from "@/assets/post-two.jpg";
+import postThree from "@/assets/post-three.png";
 import postFour from "@/assets/post-four.jpg";
-import postFive from "@/post-five.png";
-import postSix from "@/post-six.png";
+import postFive from "@/assets/post-five.png";
+import postSix from "@/assets/post-six.png";
 
 export type Comment = {
   id: string;
