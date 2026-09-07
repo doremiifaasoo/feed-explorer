@@ -57,7 +57,7 @@ function Index() {
           ))}
 
           <p className="py-8 text-center text-xs text-muted-foreground">
-            You have reached the end of the feed — endings are a design choice.
+            You have reached the end of the feed.
           </p>
         </div>
       </main>
