@@ -1,10 +1,10 @@
-import { Aperture, Bookmark, Compass, Home, Library, Settings, Sparkles } from "lucide-react";
+import { Aperture, Bookmark, Compass, Home, MessageCircle, Settings, Sparkles } from "lucide-react";
 import { currentUser } from "@/lib/feed-data";
 
 const nav = [
   { label: "Home", icon: Home, active: true },
   { label: "Explore", icon: Compass },
-  { label: "Case studies", icon: Library },
+  { label: "Messages", icon: MessageCircle },
   { label: "Saved", icon: Bookmark },
   { label: "Settings", icon: Settings },
 ];
