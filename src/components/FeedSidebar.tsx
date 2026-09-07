@@ -41,10 +41,10 @@ export function FeedSidebar() {
         <div className="mt-8 rounded-xl border border-border bg-surface p-4">
           <div className="flex items-center gap-2 text-sm font-medium">
             <Sparkles className="h-4 w-4 text-accent" />
-            Transparency mode
+            AI-Boosted Posts
           </div>
           <p className="mt-2 text-xs leading-relaxed text-muted-foreground">
-            Every post carries a “Why am I seeing this?” breakdown of the signals that ranked it.
+            Every post carries a "Why am I seeing this?" breakdown of the algorithmic signals — including where AI reflects societal bias.
           </p>
         </div>
       </div>
