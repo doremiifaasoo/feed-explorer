@@ -250,7 +250,7 @@ export const posts: Post[] = [
   image: postSix,
   imageAlt: "Abstract representation of an AI-generated image being manipulated through a social media platform",
   tags: ["Grok AI", "consent", "gender bias", "CSAM"],
-  reach: "An estimated 1.8 million sexualized images of women generated in 9 days; child-safety researchers separately estimated ~23,000 images involving minors over 11 days",
+  reach: "Mainly women, public figures, and minors disproportionately exposed to image-based sexual abuse and harassment",
   likes: 5821,
   shares: 1247,
   why: {
@@ -266,7 +266,6 @@ export const posts: Post[] = [
       heading: "Case study: when a AI tool scales non-consensual abuse",
       paragraphs: [
         "Grok was integrated directly into X, allowing users to generate and modify images through the platform. Early versions faced criticism over insufficient safeguards against sexually explicit or otherwise harmful image manipulation.",
-        "Users reportedly exploited these capabilities to alter images of real women, public figures, and minors without their consent. The harm is not distributed equally: women and other vulnerable groups can be disproportionately exposed to image-based sexual abuse and harassment.",
         "A New York Times review of the AI's output found it had generated over 4.4 million images in nine days, of which an estimated 1.8 million were sexualized depictions of women — most of them made without the subject's knowledge or consent.",
         "The platform's first response was to restrict image generation to paying subscribers rather than remove or fundamentally redesign the capability — a decision critics said effectively charged for continued access to a tool being used for abuse, rather than addressing the harm itself.",
         "The case is a direct illustration of unequal risk in AI system design: a feature built and marketed around minimal restriction does not carry the same cost for every user. Women and minors bore the overwhelming, measurable brunt of the harm, while the people generating the images faced little to no friction or consequence.",
