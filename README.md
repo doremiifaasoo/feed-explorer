@@ -1,6 +1,6 @@
 # Feed Explorer
 
-## IMPORTANT — FEED MUST BE FULLY INTERACTIVE
+## HERizon Project by Zhe An & Yee Way
 
 ### Scrollable Social Media Feed
 
